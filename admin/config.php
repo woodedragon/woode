@@ -3,5 +3,5 @@
 $admin_user='admin';
 
 //后台密码
-$admin_pwd='458130353';
+$admin_pwd='nihao';
 
