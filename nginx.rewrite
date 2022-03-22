@@ -1,1 +1,0 @@
-rewrite "^/([0-9]+)\.html$" /s.php?id=$1 last;
